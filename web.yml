@@ -7,4 +7,4 @@ metadata:
 spec:
   containers:
   - name: java-c1
-    image: shindevaibhavi11java03
+    image: shindevaibhavi11/java03
