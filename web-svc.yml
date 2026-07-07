@@ -7,6 +7,6 @@ spec:
     app: demo-app
   type: NodePort
   ports:
-    - port: 80
-      targetPort: 80
-      nodePort: 31000
+  - port: 80
+    targetPort: 8080
+    nodePort: 31000
