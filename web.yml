@@ -8,3 +8,6 @@ spec:
   containers:
   - name: java-c1
     image: shindevaibhavi11/java03:latest
+    imagePullPolicy: Always
+    ports:
+    - containerPort: 8080
