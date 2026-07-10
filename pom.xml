@@ -7,7 +7,7 @@
   <packaging>war</packaging>
   <version>1.0.0</version>
   <name>webapp Maven Webapp</name>
-<url>http://13.60.199.239:8082/repository/maven-release</url>
+<url>http://13.60.199.239:8082/repository/web</url>
 
   <dependencies>
     <dependency>
